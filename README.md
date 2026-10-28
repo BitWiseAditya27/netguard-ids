@@ -1,6 +1,6 @@
 # 🛡️ NetGuard-IDS: Network Intrusion Detection & Port Risk Analyzer
 
-[![NetGuard-IDS CI](https://github.com/Codemedi12/netguard-ids/actions/workflows/ci.yml/badge.svg)](https://github.com/Codemedi12/netguard-ids/actions)
+[![NetGuard-IDS CI](https://github.com/BitWiseAditya27/netguard-ids/actions/workflows/ci.yml/badge.svg)](https://github.com/BitWiseAditya27/netguard-ids/actions)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://netguard-ids.streamlit.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -106,7 +106,7 @@ netguard-ids/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Codemedi12/netguard-ids.git
+git clone https://github.com/BitWiseAditya27/netguard-ids.git
 cd netguard-ids
 ```
 
